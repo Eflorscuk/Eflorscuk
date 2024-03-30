@@ -1,19 +1,13 @@
-# Hello, I'm Evandro Florscuk 👋
+# Bem-vindo ao meu perfil!
 
-* 🚀 Passionate about web development, especially in JavaScript.
-* 👨‍💻 Currently, I work with Vue.js and Nest, exploring the best of the JavaScript ecosystem.
-* 💻 I code in PHP, contributing to amazing projects.
-* 🔍 I have experience in both relational and non*relational databases, making me versatile in data storage.
-* 🌱 I'm always learning and enhancing my skills*
+* Estou desde 2019 trabalhando profissionalmente no mercado de desenvolvimento web.
+* Atualmente trabalho diariamente com PHP, Laravel, Vue, Node, MySQL.
+* Sempre estou atrás de aprender coisas novas, aprendizado faz parte do meu cotidiano.
+* Adoro História Antiga!
 
-Let's build something amazing together! 🚀
+# Welcome to my profile!
 
-# Olá, eu sou Evandro Florscuk 👋
-
-* 🚀 Apaixonado por desenvolvimento web, especialmente em JavaScript.
-* 👨‍💻 Atualmente, trabalho com Vue.js e Nest, explorando o melhor do ecossistema JavaScript.
-* 💻 Programo em PHP, contribuindo para projetos incríveis.
-* 🔍 Tenho experiência em bancos de dados relacional e não relacional, tornando-me versátil no armazenamento de dados.
-* 🌱 Estou sempre aprendendo e aprimorando minhas habilidades.
-
-Vamos construir algo incrível juntos! 🚀
+* I've working since 2019 with web development.
+* I'm working with PHP, Laravel< Vue, Node, MySQL...
+* I'm always want to learn something new, because, learn is part of my day.
+* I love Ancient History!
