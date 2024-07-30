@@ -1,13 +1,11 @@
-# Bem-vindo ao meu perfil!
+# Hello, I'm Evandro
 
-* Estou desde 2019 trabalhando profissionalmente no mercado de desenvolvimento web.
-* Atualmente trabalho diariamente com PHP, Laravel, Vue, Node, Typescript, MySQL.
-* Sempre estou atrás de aprender coisas novas, aprendizado faz parte do meu cotidiano.
-* Adoro História Antiga!
+I am a developer and work with Javascript and its technologies. I work with client side and server side, however, I prefer to work with backend using node - however, I am experimenting with Bun.
 
-# Welcome to my profile!
+I have worked in companies in the most diverse sectors, for example: Financial sector, Photography Service Subscription, Car Rental and Public Security.
 
-* I've working since 2019 with web development.
-* I'm working with PHP, Laravel, Vue, Node, Typescript, MySQL...
-* I'm always want to learn something new, because, learn is part of my day.
-* I love Ancient History!
+## Talking about Personal Stuffs:
+* I'm currently working on backend Javascript and Python.
+* I'm currently learning Bun and I'm studing to JS certificates on Linux Fundation.
+* How to reach me: evandro_ff@me.com
+
