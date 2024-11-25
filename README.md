@@ -8,7 +8,7 @@
 <br>
 <br>
 
-I am a developer and work with Javascript and its technologies. I work with client side and server side, however, I prefer to work with backend using node. Today, I am experimenting with Bun too.
+I've been a web developer since 2018, with experience in several development languages ​​such as PHP, Javascript, Python, and currently, I want to improve my skills in the Ruby on Rails stack and work with this framework. I prefer backend development, although I have experience in frontend with Vue, React, Bootstrap, jQuery, etc.
 
 I have worked in companies in the most diverse sectors, for example: Financial sector, Photography Service Subscription, Car Rental and Public Security.
 
@@ -17,17 +17,6 @@ I have worked in companies in the most diverse sectors, for example: Financial s
 * I'm currently learning Bun and I'm studing to JS certificates on Linux Fundation.
 * Learning Monorepo stack with Nx and Lerna.
 * How to reach me: evandro_ff@me.com
-
-## Language and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=eflorscuk&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/eflorscuk)
