@@ -8,9 +8,25 @@
 <br>
 <br>
 
-I've been a web developer since 2018, with experience in several development languages ​​such as PHP, Javascript, Python, and currently, I want to improve my skills in the Ruby on Rails stack and work with this framework. I prefer backend development, although I have experience in frontend with Vue, React, Bootstrap, jQuery, etc.
+Full Stack Developer | Integrated Systems & Prototyping Specialist
 
-I have worked in companies in the most diverse sectors, for example: Financial sector, Photography Service Subscription, Car Rental and Public Security.
+Full stack developer since 2019, experienced in building scalable solutions for public security, marketplaces, and fintechs. My expertise lies in backend development with NestJS, Node.js, and TypeScript, along with designing and integrating robust system architectures.
+
+Throughout my career, I have worked with technologies such as Vue.js, React, PHP (Laravel), PostgreSQL, MongoDB, and AWS, developing both internal systems and large-scale platforms serving major industry players. I specialize in REST and WebSocket communication, as well as leading technical teams and optimizing workflows.
+
+I am driven by complex challenges and the opportunity to create solutions that deliver real impact. My approach focuses on efficiency, scalability, and continuous innovation.
+
+🔹 Key Skills:
+• Backend: NestJS, Node.js, Express.js, Laravel
+• Frontend: Vue.js, React, Blade, TypeScript, Tailwind
+• Databases: PostgreSQL, MongoDB, MySQL, MariaDB
+• DevOps & Cloud: Docker, AWS, DigitalOcean
+• Tools: Git, GitHub, Postman
+
+📌 Portfolio & Contact:
+• GitHub: https://github.com/Eflorscuk 
+• LinkedIn: https://www.linkedin.com/in/evandroff/ 
+• email: evandroooff@gmail.com
 
 ## Talking about Personal Stuffs:
 * I'm currently working on backend Javascript and Python.
